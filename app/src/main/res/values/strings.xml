@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quake Report</string>
+
+    <string name="no_earthquake">No Earthquake found</string>
+    <string name="no_internet">NO INTERNET</string>
+
+    <string name="intro_text">Welcome to Earthquake App</string>
+    <string name="intro2_text">Give the following details</string>
+
+    <string name="starting_date">Starting Date</string>
+    <string name="ending_date">Ending Date</string>
+
+    <string name="magnitude">Enter mag.</string>
+
+    <string name="find_detail">Find Earthquakes</string>
+
+    <string name="select">Select Date</string>
+
+    <string name="notice">Date should be proper</string>
+
+    <string name="ok">Select</string>
+
+    <string name="default_msg">Thank You For Using This App</string>
+
+    <string name="one">1</string>
+</resources>
